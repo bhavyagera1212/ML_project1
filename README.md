@@ -1,9 +1,9 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 This project demonstrates how to predict house prices in California using multiple regression models with the [California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html). We use models like Linear Regression, Decision Tree Regressor, and Ridge Regression to compare performance and evaluate accuracy.
 
 ---
-## 📦 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - `pandas`, `numpy`
@@ -11,7 +11,7 @@ This project demonstrates how to predict house prices in California using multip
 - `matplotlib` for visualization
 
 ---
-## 📊 Dataset Overview
+## Dataset Overview
 
 The California Housing Dataset contains features such as:
 
@@ -28,7 +28,7 @@ The California Housing Dataset contains features such as:
 | `MedHouseVal` | **Target**: Median house value (in $100,000s)     |
 
 ---
-## 🧪 ML Models Used
+## ML Models Used
 
 ### 1️ Linear Regression
 - Baseline model
@@ -43,14 +43,14 @@ The California Housing Dataset contains features such as:
 - Cross-validated with `RidgeCV`
 
   ---
-  ## 📈 Evaluation Metrics
+  ## Evaluation Metrics
 
 | Metric | Description |
 |--------|-------------|
 | MAE    | Mean Absolute Error |
 
 ---
-## 📊 Visualizations
+## Visualizations
 
 - 🔹 **Predicted vs Actual** scatter plots
 - 🔹 **Residual plots** to detect over/under-fitting
