@@ -6,9 +6,9 @@ This project demonstrates how to predict house prices in California using multip
 ##  Tech Stack
 
 - Python 3.10+
-- `pandas`, `numpy`
-- `scikit-learn` for ML modeling
-- `matplotlib` for visualization
+- pandas, numpy
+- scikit-learn for ML modeling
+- matplotlib for visualization
 
 ---
 ## Dataset Overview
@@ -52,8 +52,8 @@ The California Housing Dataset contains features such as:
 ---
 ## Visualizations
 
-- 🔹 **Predicted vs Actual** scatter plots
-- 🔹 **Residual plots** to detect over/under-fitting
+-  **Predicted vs Actual** scatter plots
+-  **Residual plots** to detect over/under-fitting
   ![image](https://github.com/user-attachments/assets/8939367f-5afb-4acd-836e-b72f24f5ecb2)
   ![image](https://github.com/user-attachments/assets/dcc9e5b6-abb2-4ca9-b1bf-fe7d04ff5818)
   ![image](https://github.com/user-attachments/assets/bd72f510-76a6-466d-81b6-c37c916b3c50)
